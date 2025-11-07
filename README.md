@@ -1,4 +1,4 @@
-# $\text{Ore-Atlas\_applied\_to\_MinedexWA}$ 
+# Ore-Atlas Applied to MinedexWA
 
 ## Overview: $\text{Ore-Atlas\ (Topological\ Mining\ Analysis\ V1.0)}$
 
